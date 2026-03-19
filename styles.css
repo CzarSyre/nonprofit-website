@@ -1,0 +1,32 @@
+/* Tree Trunk Family Care Color Scheme */
+
+body {
+    background-color: #f5f5dc; /* Cream */
+    color: #333333; /* Dark text for accessibility */
+}
+
+header, footer {
+    background-color: #228B22; /* Forest Green */
+    color: #ffffff; /* White text for contrast */
+}
+
+.button {
+    background-color: #3cb371; /* Medium Sea Green */
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.link {
+    color: #228B22; /* Forest Green for links */
+    text-decoration: underline;
+}
+
+.link:hover {
+    color: #3cb371; /* Medium Sea Green on hover */
+}
